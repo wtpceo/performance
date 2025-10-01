@@ -7,12 +7,12 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: '퍼포먼스 마케팅 제안',
   description: '퍼포먼스 마케팅 제안',
-  metadataBase: new URL('https://myungpumhanwoo.vercel.app'),
+  metadataBase: new URL('https://performance-lovat.vercel.app'),
   openGraph: {
     title: '퍼포먼스 마케팅 제안',
     description: '퍼포먼스 마케팅 제안',
     siteName: '퍼포먼스 마케팅 제안',
-    url: 'https://myungpumhanwoo.vercel.app',
+    url: 'https://performance-lovat.vercel.app',
     locale: 'ko_KR',
     type: 'website',
     images: [
@@ -28,11 +28,11 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: '퍼포먼스 마케팅 제안',
     description: '퍼포먼스 마케팅 제안',
-    site: '@myungpumhanwoo',
-    creator: '@myungpumhanwoo',
+    site: '@performance',
+    creator: '@performance',
   },
   alternates: {
-    canonical: 'https://myungpumhanwoo.vercel.app',
+    canonical: 'https://performance-lovat.vercel.app',
   },
 }
 
