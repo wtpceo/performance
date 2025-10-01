@@ -507,21 +507,32 @@ export default function Home() {
           <div className="section-header">
             <span className="section-badge">PRICING</span>
             <h2 className="section-title">
-              투명한 <span className="gradient-text-purple">가격 정책</span>
+              맞춤형 <span className="gradient-text-purple">가격 정책</span>
             </h2>
-            <p className="section-subtitle">모든 서비스를 포함한 통합 패키지</p>
+            <p className="section-subtitle">목표에 따라 달라지는 최적화된 패키지</p>
           </div>
 
           <div className="pricing-container">
             <div className="pricing-card featured">
               <div className="pricing-header">
                 <h3>온라인 마케팅 통합 패키지</h3>
-                <p className="pricing-desc">미나리산장 본점 맞춤형</p>
+                <p className="pricing-desc">목표와 예산에 맞는 맞춤형 서비스</p>
               </div>
 
               <div className="pricing-price">
-                <span className="price-value">200</span>
-                <span className="price-unit">만원</span>
+                <span className="price-value">목표별</span>
+                <span className="price-unit">맞춤 가격</span>
+              </div>
+
+              <div className="pricing-note">
+                <p className="note-highlight">
+                  💬 상세한 가격은 미팅을 통해 안내드립니다
+                </p>
+                <p className="note-text">
+                  매장의 목표, 예산, 현재 상황을 종합적으로 분석하여
+                  <br />
+                  최적의 마케팅 전략과 가격을 제안해드립니다.
+                </p>
               </div>
 
               <div className="service-summary">
