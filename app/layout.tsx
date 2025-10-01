@@ -5,13 +5,13 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '퍼포먼서 마케팅 제안',
-  description: '퍼포먼서 마케팅 제안',
+  title: '퍼포먼스 마케팅 제안',
+  description: '퍼포먼스 마케팅 제안',
   metadataBase: new URL('https://myungpumhanwoo.vercel.app'),
   openGraph: {
-    title: '퍼포먼서 마케팅 제안',
-    description: '퍼포먼서 마케팅 제안',
-    siteName: '퍼포먼서 마케팅 제안',
+    title: '퍼포먼스 마케팅 제안',
+    description: '퍼포먼스 마케팅 제안',
+    siteName: '퍼포먼스 마케팅 제안',
     url: 'https://myungpumhanwoo.vercel.app',
     locale: 'ko_KR',
     type: 'website',
@@ -20,14 +20,14 @@ export const metadata: Metadata = {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: '퍼포먼서 마케팅 제안',
+        alt: '퍼포먼스 마케팅 제안',
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: '퍼포먼서 마케팅 제안',
-    description: '퍼포먼서 마케팅 제안',
+    title: '퍼포먼스 마케팅 제안',
+    description: '퍼포먼스 마케팅 제안',
     site: '@myungpumhanwoo',
     creator: '@myungpumhanwoo',
   },
