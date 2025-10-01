@@ -606,46 +606,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA 섹션 */}
-      <section className="cta-section">
-        <div className="container">
-          <h2 className="cta-title">
-            지금 시작하지 않으면
-            <br />
-            <span className="gradient-text-gold">경쟁사가 먼저</span> 시작합니다
-          </h2>
-
-          <p className="cta-description">
-            매달 미루는 것은 매달 1억의 기회를 놓치는 것입니다
-            <br />
-            지금 바로 무료 상담을 받아보세요
-          </p>
-
-
-          <div className="cta-features">
-            <div className="cta-feature">
-              <span className="feature-icon">✓</span>
-              <span>무료 현장 진단</span>
-            </div>
-            <div className="cta-feature">
-              <span className="feature-icon">✓</span>
-              <span>맞춤 전략 제안</span>
-            </div>
-            <div className="cta-feature">
-              <span className="feature-icon">✓</span>
-              <span>예상 매출 분석</span>
-            </div>
-          </div>
-
-          <div className="footer-info">
-            <h3>위즈더플래닝</h3>
-            <p>온라인 마케팅 전문 기업</p>
-            <p className="contact-info">
-              📞 1670-0708 | 📧 wiz@wiztheplanning.com
-            </p>
-          </div>
-        </div>
-      </section>
     </main>
   )
 }
